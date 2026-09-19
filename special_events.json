@@ -1,12 +1,3 @@
 [
-  {
-    "eventId": "EV0001",
-    "treasureId": "NT0001",
-    "buildingId": null,
-    "startDate": "2026-10-01",
-    "endDate": "2026-10-31",
-    "title": "特別公開テスト",
-    "description": "サーバー取得確認用のテストデータです。",
-    "url": ""
-  }
 ]
+
