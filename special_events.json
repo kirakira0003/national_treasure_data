@@ -26,7 +26,7 @@
     "startDate": "2026-11-07",
     "endDate": "2026-12-06",
     "title": "秋季特別公開",
-    "description": "三重塔（重要文化財）御本尊「釈迦三尊像」をはじめ、毘沙門天像、文殊菩薩像、不動明王像を、国宝 金堂内陣にてお参りできる特別拝観。",
+    "description": "三重塔御本尊「釈迦三尊像」をはじめ各仏像を国宝 金堂内陣にて参拝できる特別拝観。",
     "EventURL": "https://miidera1200.jp/2026autumn/"
   },
   {
@@ -66,7 +66,7 @@
     "startDate": "2026-10-24",
     "endDate": "2026-11-08",
     "title": "秋の北円堂特別開扉",
-    "description": "国宝北円堂の秋季特別開扉。別途、東金堂の夜間特別参拝も2026年秋に設定あり。",
+    "description": "国宝北円堂の秋季特別開扉。",
     "EventURL": "https://www.kohfukuji.com/event/"
   },
   {
@@ -76,7 +76,7 @@
     "startDate": "2026-10-10",
     "endDate": "2026-12-06",
     "title": "国宝本堂特別拝観",
-    "description": "通常は関係者以外立入禁止の国宝本堂内に入り、本尊の御足に触れて参拝できる特別拝観。",
+    "description": "国宝本堂内に入り、本尊の御足に触れて参拝できる特別拝観。",
     "EventURL": "https://inori.nara-kankou.or.jp/inori/hihou/hasedera/event/w6gn9gkdjc/"
   },
   {
@@ -96,7 +96,7 @@
     "startDate": "2026-10-31",
     "endDate": "2026-11-08",
     "title": "五重塔特別開扉",
-    "description": "国宝五重塔の内陣を特別開扉。雨天・荒天時は中止の場合あり。10月31日～11月29日まで寺宝特別公開あり",
+    "description": "国宝五重塔の内陣を特別開扉。雨天・荒天時は中止の場合あり。",
     "EventURL": "https://yamatoji.nara-kankou.or.jp/01shaji/02tera/01north_area/kaijusenji/"
   },
   {
@@ -136,7 +136,7 @@
     "startDate": "2026-10-03",
     "endDate": "2026-11-13",
     "title": "京都非公開文化財特別公開「国宝三門楼上」",
-    "description": "三門楼上公開。上層部（楼上）内部は仏堂となっており、中央に宝冠釈迦牟尼仏像、脇壇には十六羅漢像（いずれも重要文化財）が安置され、天井や柱、壁などには迦陵頻伽（かりょうびんが）や天女、飛龍が極彩色で描かれています。",
+    "description": "三門楼上公開。上層部（楼上）内部は仏堂となっている。",
     "EventURL": "https://www.chion-in.or.jp/event/event/5721/"
   },
   {
@@ -146,7 +146,7 @@
     "startDate": "2026-11-17",
     "endDate": "2026-12-06",
     "title": "秋のライトアップ2026",
-    "description": "庭園「友禅苑」、日本最大級の木造二重門「三門」、男坂、「御影堂」などがライトアップ。",
+    "description": "庭園「友禅苑」、国宝「三門」、国宝「御影堂」などがライトアップされる。",
     "EventURL": "https://ja.kyoto.travel/event/single.php?event_id=3884"
   },
   {
@@ -166,7 +166,7 @@
     "startDate": "2026-09-19",
     "endDate": "2026-11-29",
     "title": "国宝 久能山東照宮 夜間特別拝観 光彩-IRODORI-",
-    "description": "9・10月は土日祝、11月は金土日祝。10/17、11/22・23休止。普段立ち入れない夜間の特別拝観.",
+    "description": "普段立ち入れない夜間の特別拝観.",
     "EventURL": "https://www.toshogu.or.jp/news/_-irodori-_1.php"
   },
   {
@@ -176,7 +176,7 @@
     "startDate": "2026-11-07",
     "endDate": "2026-11-28",
     "title": "国宝・御本殿 夜間特別参拝",
-    "description": "11/7・14・21・28の土曜に朱色に輝く御本殿（国宝）夜間特別参拝と御本社回廊内約1,000基の釣燈籠に浄火が灯される万燈籠",
+    "description": "御本殿（国宝）夜間特別参拝と御本社回廊内約1,000基の釣燈籠に浄火が灯される万燈籠",
     "EventURL": "https://narashikanko.or.jp/event/detail_10298.html"
   },
   {
